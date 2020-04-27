@@ -1,0 +1,11 @@
+C:\Users\Yeldos\source\repos\DB2\DB2\bin\Debug\DB2.exe.config
+C:\Users\Yeldos\source\repos\DB2\DB2\bin\Debug\DB2.exe
+C:\Users\Yeldos\source\repos\DB2\DB2\bin\Debug\DB2.pdb
+C:\Users\Yeldos\source\repos\DB2\DB2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.csprojAssemblyReference.cache
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.Form1.resources
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.Properties.Resources.resources
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.csproj.GenerateResource.cache
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.csproj.CopyComplete
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.exe
+C:\Users\Yeldos\source\repos\DB2\DB2\obj\Debug\DB2.pdb
